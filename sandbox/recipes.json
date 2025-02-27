@@ -1,0 +1,128 @@
+[
+    {
+        "recipe_name" : "Chacolate Chip Cookies",
+        "ingredients" : [
+            {
+                "name" : "Butter",
+                "amount" : "1",
+                "unit_measure" : "lb"
+            }, 
+                {"extra" : "softened"},
+            {
+                "name" : "Brown Sugar",
+                "amount" : "1 1/2",
+                "unit_measure" : "Cups"
+            },
+            {
+                "name" : "White Sugar",
+                "amount" : "1",
+                "unit_measure" : "Cups"
+            },
+            {
+                "name" : "Eggs",
+                "amount" : "3",
+                "unit_measure" : "Each"
+            },
+            {
+                "name" : "Vanilla",
+                "amount" : "2",
+                "unit_measure" : "Tea Spoon (tsp)"
+            },
+            {
+                "name" : "Baking Soda",
+                "amount" : "1 1/2",
+                "unit_measure" : "Tea Spoon (tsp)"
+            },
+            {
+                "name" : "Salt",
+                "amount" : "1/2",
+                "unit_measure" : "Tea Spoon (tsp)"
+            },
+            {
+                "name" : "Flour",
+                "amount" : "5",
+                "unit_measure" : "Cups"
+            },
+                {"extra" : "we like 3 C white and 2 C whole wheat"},
+            {
+                "name" : "Semi-Sweet Chocolat Chips",
+                "amount" : "2",
+                "unit_measure" : "Cups"
+            },
+            {
+                "name" : "Shredded Coconut",
+                "amount" : "1-2",
+                "unit_measure" : "Cups"
+            }
+        ],
+        "instructions" : [
+            "Cream the butter and sugar together, then beat in the eggs and vanilla",
+            "Mix in salt, soda and flour",
+            "Add chocolate chips and coconut",
+            "Bake 8-10 minutes at 350 F"
+        ]
+    },
+    {
+        "recipe_name" : "Chacolate Chip Cookies",
+        "ingredients" : [
+            {
+                "name" : "Butter",
+                "amount" : "1",
+                "unit_measure" : "lb"
+            }, 
+                {"extra" : "softened"},
+            {
+                "name" : "Brown Sugar",
+                "amount" : "1 1/2",
+                "unit_measure" : "Cups"
+            },
+            {
+                "name" : "White Sugar",
+                "amount" : "1",
+                "unit_measure" : "Cups"
+            },
+            {
+                "name" : "Eggs",
+                "amount" : "3",
+                "unit_measure" : "Each"
+            },
+            {
+                "name" : "Vanilla",
+                "amount" : "2",
+                "unit_measure" : "Tea Spoon (tsp)"
+            },
+            {
+                "name" : "Baking Soda",
+                "amount" : "1 1/2",
+                "unit_measure" : "Tea Spoon (tsp)"
+            },
+            {
+                "name" : "Salt",
+                "amount" : "1/2",
+                "unit_measure" : "Tea Spoon (tsp)"
+            },
+            {
+                "name" : "Flour",
+                "amount" : "5",
+                "unit_measure" : "Cups"
+            },
+                {"extra" : "we like 3 C white and 2 C whole wheat"},
+            {
+                "name" : "Semi-Sweet Chocolat Chips",
+                "amount" : "2",
+                "unit_measure" : "Cups"
+            },
+            {
+                "name" : "Shredded Coconut",
+                "amount" : "1-2",
+                "unit_measure" : "Cups"
+            }
+        ],
+        "instructions" : [
+            "Cream the butter and sugar together, then beat in the eggs and vanilla",
+            "Mix in salt, soda and flour",
+            "Add chocolate chips and coconut",
+            "Bake 8-10 minutes at 350 F"
+        ]
+    }
+]
