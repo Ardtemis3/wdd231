@@ -1,0 +1,43 @@
+{
+    "bed1" : "16ft",
+    "bed2" : "16ft",
+    "bed3" : "16ft",
+    "bed4" : "16ft",
+    "plants" : [
+        {
+            "name" : "Carrots",
+            "size" : "8ft",
+            "bed" : "bed1"
+        },
+        {
+            "name" : "Lettuce",
+            "size" : "6ft",
+            "bed" : "bed1"
+        },
+        {
+            "name" : "Radish",
+            "size" : "2ft",
+            "bed" : "bed2"
+        },
+        {
+            "name" : "Beans",
+            "size" : "8ft",
+            "bed" : "bed2"
+        },
+        {
+            "name" : "Tomatos",
+            "size" : "4ft",
+            "bed" : "bed2"
+        },
+        {
+            "name" : "Squash",
+            "size" : "8ft",
+            "bed" : "bed3"
+        },
+        {
+            "name" : "Cucumbers",
+            "size" : "4ft",
+            "bed" : "bed3"
+        }
+    ]
+}
