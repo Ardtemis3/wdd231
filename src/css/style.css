@@ -176,3 +176,6 @@ svg {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 }
+.global-header__right{
+  display: flex;
+}
