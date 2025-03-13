@@ -60,6 +60,12 @@ function manageTasks(e) {
   }
 }
 
+function setUser{
+  const name = querySelector("#name");
+  const input = name.value;
+  localStorage.set
+}
+
 // Add your event listeners here
 document.querySelector("#submitTask").addEventListener("click", newTask);
 document.querySelector("#todoList").addEventListener("click", manageTasks);
