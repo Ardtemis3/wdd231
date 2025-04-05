@@ -4,3 +4,7 @@ const products = [
     { id: 2, name: "Product 2", price: 5, image: "https://placehold.co/300" },
     { id: 3, name: "Product 3", price: 1, image: "https://placehold.co/300" }
   ];
+
+  function linkTemplate(product){
+    return 
+  }
